@@ -10,4 +10,5 @@ import pyscf
 
 df = pd.DataFrame(np.ones((100,4)))
 df.to_pickle("water-x6.pkl")
+print(df.keys())
 print(df)
