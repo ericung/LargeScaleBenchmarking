@@ -1,6 +1,6 @@
 # Large Scale Benchmarking
 
-*Introduction*
+**Introduction**
 
 One way functions can be used to calculate simulations of chemical reactions in a setting using a personal laptop by giving probabilistic approximations to the process when resource intensive computations aren't accessible. 
 
